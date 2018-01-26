@@ -4,7 +4,7 @@
 process.env.BABEL_ENV = 'test';
 process.env.NODE_ENV = 'test';
 process.env.PUBLIC_URL = '';
-process.env.REACT_APP_BASE_REQUEST_URL="http://5a68082178f25e00122ad158.mockapi.io";
+process.env.REACT_APP_BASE_REQUEST_URL="https://5a68082178f25e00122ad158.mockapi.io";
 
 
 // Makes the script crash on unhandled rejections instead of silently
